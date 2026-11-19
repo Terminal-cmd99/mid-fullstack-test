@@ -186,4 +186,5 @@ Redis bonus ยังไม่ถือว่าครบทั้งข้อ�
 
 ## Deployment
 
-ยังไม่ได้ deploy ขึ้น cloud จึงยังไม่มี production URL เมื่อ deploy บน Railway แล้วจะเพิ่ม HTTPS URL ในหัวข้อนี้ โดยเปิด public domain เฉพาะ frontend และให้ frontend, backend, PostgreSQL และ Redis ติดต่อกันผ่าน Railway private network
+- Production URL: https://frontend-production-df731db8.up.railway.app
+- Deploy บน Railway โดยเปิด public domain เฉพาะ frontend ส่วน backend, PostgreSQL และ Redis ติดต่อกันผ่าน Railway private network
