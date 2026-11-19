@@ -27,7 +27,7 @@ export default function Nav() {
   return (
     <header className="nav">
       <div className="shell nav-inner">
-        <Link className="brand" href="/events">SeatSure</Link>
+        <Link className="brand" href="/events">จองตั๋ว</Link>
         <nav className="nav-links" aria-label="เมนูหลัก">
           <Link href="/events">อีเวนต์</Link>
           <Link href="/bookings">การจองของฉัน</Link>

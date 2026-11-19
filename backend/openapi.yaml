@@ -1,6 +1,6 @@
 openapi: 3.1.0
 info:
-  title: SeatSure Event Booking API
+  title: จองตั๋ว Event Booking API
   version: 1.0.0
   description: REST API for registration, events, bookings, cancellation, and event administration.
   license: { name: MIT }
